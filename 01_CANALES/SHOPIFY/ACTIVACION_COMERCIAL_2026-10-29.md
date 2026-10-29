@@ -74,3 +74,10 @@ Solo después de B2 (flujo validado) y de cambiar la foto del repetidor: Meta Ad
 2. Claude: verificar vínculo, activar HY300, registrar.
 3. Julián: instalar Google & YouTube y Facebook & Instagram; Claude revisa el catálogo sincronizado.
 4. Medir: pedidos Shopify y Dropi diarios durante la primera semana.
+
+## 9. Actualización 2026-10-29 18:50 UTC
+- **B1 resuelto:** Julián vinculó el HY300 en Dropify (metafield 06:55 UTC) y lo activó (publicado 06:57 UTC). SKU pasó a T0122 (proveedor), costo 98.000, precio 179.900, inventario 112 seguido por Shopify. Ficha activa: https://0mnu05-bs.myshopify.com/products/proyector-portatil-hy300-smart-110v-220v
+- **B3 (HY300) resuelto:** garantía del proveedor 6606 (Quality / IMPORTODO), según el metafield: 30 días por defectos de fabricación (reparación o reemplazo); cambios en 3 días con producto sin abrir, flete a cargo del dropshipper; despacho desde bodega Bogotá, guías hasta la 1 p. m. de lunes a viernes.
+- Claude añadió la garantía a la descripción del HY300 y quitó la etiqueta `borrador-pendiente-revision`.
+- El nombre de la tienda en la integración Dropi es "Mi tienda 2" (dato del metafield): explica la referencia en jumocol-os y corresponde a El Protector.
+- Pedidos: Shopify sigue con solo #1001 (prueba) y Dropi con 0. Decisión de Julián (06:44 UTC): el primer pedido de cliente será la prueba E2E, con revisión de Claude cada 12–24 h.
